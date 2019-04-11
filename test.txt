@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 master123test123
+=======
+master1
+>>>>>>> master
